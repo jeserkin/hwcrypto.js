@@ -3,9 +3,9 @@
 
 ## Get started
 
-The easiest way for managing JavaScript-s on a website is with [Bower](https://bower.io/):
+The easiest way for managing JavaScript-s on a website is with [NPM](https://www.npmjs.com/):
 
-        $ bower install --save hwcrypto
+        $ npm install --save hwcrypto-js
 
 Alternatively you can download the files from [release area](https://github.com/hwcrypto/hwcrypto.js/releases).
 
